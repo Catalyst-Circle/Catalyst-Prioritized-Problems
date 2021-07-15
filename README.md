@@ -1,2 +1,2 @@
-#  Circle-of-Toolmakers-and-Maintainers-Co-ordination
-The repository for the Catalyst Circle of Toolmakers and Maintainers 
+#   Catalyst Circle Co-ordination
+The repository for Catalyst Circle Co-ordination
