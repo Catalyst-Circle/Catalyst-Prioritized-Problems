@@ -1,4 +1,4 @@
-#   Catalyst Circle Co-ordination
+## Catalyst-Prioritized-Problems
 The repository for Catalyst Circle Co-ordination
 
 [![GitHub open issues](https://img.shields.io/github/issues/Catalyst-Swarm/Catalyst-Circle-Co-ordination?style=flat-square)](https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues)
